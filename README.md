@@ -32,6 +32,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**LLM & AI Agents**
+![Phi-3](https://img.shields.io/badge/Phi--3-Microsoft%20LLM-purple.svg)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Architecture-blue.svg)
+
 ---
 
 ### 📊 GitHub Stats
@@ -52,10 +57,19 @@
 
 ### 📚 Featured Projects
 
-- 🚦 [Road Sign Recognition](https://github.com/Ghass-en/Recognition-of-road-signs) - CNN based traffic sign detection
-- 🛒 [Amazon Web Scraper](https://github.com/Ghass-en/App_web-scrapping) - Flask based data extraction app
+- 💊 [Pharmaceutical Chatbot](https://github.com/Ghass-en/Chat-bot-Pharmaceutique) - Multi-agent AI system with Phi-3 LLM & RAG for drug interaction analysis
+- 🚦 [Road Sign Recognition](https://github.com/Ghass-en/Recognition-of-road-signs) - CNN based traffic sign detection with SVM/KNN comparison
+- 🛒 [Amazon Web Scraper](https://github.com/Ghass-en/App_web-scrapping) - Flask based data extraction application
 - 🚗 [Vehicle Tracking App](https://github.com/Ghass-en/App.suivie-des-vehicules) - Java mobile tracking application
 
 ---
+
+### 🔬 AI Research Focus
+
+**Large Language Models & AI Agents:**
+- Microsoft Phi-3 fine-tuning and deployment
+- Multi-agent system architecture design
+- Retrieval-Augmented Generation (RAG) implementation
+- Pharmaceutical AI applications
 
 ⭐️ *From [Ghass-en](https://github.com/Ghass-en)*
